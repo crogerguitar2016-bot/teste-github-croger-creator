@@ -1,0 +1,6 @@
+APLICATIVO: Teste GitHub
+PACOTE: com.croger.testegithub
+
+CATEGORIAS:
+- principal
+- documentos
